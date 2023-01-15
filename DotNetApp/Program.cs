@@ -13,7 +13,7 @@ namespace DotNetApp
             String UserAnswer = AskUser();
 
             if (UserAnswer == "Y")
-            {
+            {//jjjjjjj
                 while (true)
                 {
                     Random random = new Random();// random Obj
